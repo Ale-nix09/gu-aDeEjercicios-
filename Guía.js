@@ -1,2 +1,0 @@
-//Guía de ejercicios
-
